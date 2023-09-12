@@ -1,1 +1,1 @@
-Finnish programmer specialized in Unity and Flutter development. Interested in creating mobile, desktop, and web applications and XR experiences.
+Finnish software developer. Currently working professionally with .NET & Angular and recreationally with Godot, .NET, Go, and Vue.
